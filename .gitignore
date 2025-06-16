@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 環境ファイル
+.env
+*.env
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# VSCode設定（使っている場合）
+.vscode/
+
+# 仮想環境
+venv/
+.venv/
+
+# その他
+*.log
+local_discord_bot.py
+local_getMapRotation.py
